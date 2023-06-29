@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-06-29 12:12">
+<yml_catalog date="2023-06-29 12:38">
   <shop>
     <name>CartelUA</name>
     <company>CartelUA</company>
@@ -191,10 +191,9 @@
         <param name="Цвет">Бежевый</param>
         <param name="Материал">Полиэстер</param>
       </offer>
-      <offer id="1881242378" available="true">
+      <offer id="1881242378" available="false">
         <url>https://cartelua.com.ua/p1881242378-ovoscherezka-terka-multislajser.html</url>
-        <oldprice>380</oldprice>
-        <price>366</price>
+        <price>380</price>
         <currencyId>UAH</currencyId>
         <categoryId>109830602</categoryId>
         <picture>https://images.prom.ua/4642430291_ovoscherezka-terka-multislajser.jpg</picture>
