@@ -65,6 +65,7 @@ axios
           if (err) {
             console.error("Ошибка при сохранении YML-строки:", err);
           } else {
+            console.log(result.yml_catalog.shop[0].offers[0].offer[0].price[0]);
             console.log("YML-строка успешно сохранена в файл:", filePath);
           }
         });

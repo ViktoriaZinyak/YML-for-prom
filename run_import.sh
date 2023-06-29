@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd import.js
+cd ./import.js
 
 node import.js
 
