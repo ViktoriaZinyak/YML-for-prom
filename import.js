@@ -110,3 +110,4 @@ function runScript() {
 
 // Запуск функции каждые 10 секунд
 setInterval(runScript, 10 * 1000);
+// 4 * 60 * 60 * 1000;
