@@ -7,7 +7,7 @@ cron.schedule("0 */4 * * *", () => {
   // Команда для запуска скрипта
   console.log("2");
   const command =
-    'node import.js && git add . && git commit -m "Автоматический коммит" && git push';
+    'node import.js && git add . && git commit -m "Автоматический коммит1" && git push';
 
   exec(command, (error, stdout, stderr) => {
     if (error) {
