@@ -108,5 +108,5 @@ function runScript() {
     });
 }
 
-// Запуск функции каждые 4 часа
-setInterval(runScript, 20 * 1000);
+// Запуск функции каждые 10 секунд
+setInterval(runScript, 10 * 1000);
