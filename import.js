@@ -167,6 +167,7 @@ const yaml = require("js-yaml");
 const fs = require("fs");
 const notAvailable = require("./notAvailable.js");
 const goodsNotForUse = require("./goodsNotForUse.js");
+const deleteId = require("./deleteId.js");
 var xmlUrl =
   "https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids=";
 var builder = new xml2js.Builder();
@@ -180,8 +181,6 @@ axios
       if (err) {
         console.error(err);
       } else {
-        result.yml_catalog.shop[0].offers[0].offer[0].price[0] = "100";
-
         var products = result.yml_catalog.shop[0].offers[0].offer;
         var newProductList = notAvailable.concat(goodsNotForUse);
         var filteredProducts = products.filter(function (product) {
@@ -189,7 +188,13 @@ axios
             return product["$"].id === id.toString();
           });
         });
-        console.log(filteredProducts.length);
+        const filteredData = filteredProducts.filter(
+          (item) => !deleteId.includes(item.vendorCode[0])
+        );
+        // console.log(filteredData);
+        // console.log(result.yml_catalog.shop[0].offers[0].offer);
+        result.yml_catalog.shop[0].offers[0].offer = filteredData;
+        // result.yml_catalog.shop[0] = filteredData;
         // for (var i = 0; i < filteredProducts.length; i++) {
         //   var product = filteredProducts[i];
         //   var unavailableProductIds = "";
