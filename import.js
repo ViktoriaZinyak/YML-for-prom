@@ -188,9 +188,13 @@ axios
             return product["$"].id === id.toString();
           });
         });
-        const filteredData = filteredProducts.filter(
+        let filteredData = filteredProducts.filter(
           (item) => !deleteId.includes(item.vendorCode[0])
         );
+
+        filteredData = filteredData.filter(function (item) {
+          return !item.name[0].includes("кроссовки");
+        });
         // console.log(filteredData);
         // console.log(result.yml_catalog.shop[0].offers[0].offer);
         result.yml_catalog.shop[0].offers[0].offer = filteredData;
