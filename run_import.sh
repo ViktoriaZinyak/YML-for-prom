@@ -1,11 +1,11 @@
-#!/bin/bash
+# #!/bin/bash
 
-cd ./import.js
+# cd ./import.js
 
-node import.js
+# node import.js
 
-git add .
+# git add .
 
-git commit -m "Автоматический коммит"
+# git commit -m "Автоматический коммит"
 
-git push
+# git push
