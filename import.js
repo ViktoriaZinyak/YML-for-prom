@@ -213,7 +213,7 @@ axios
         //   //   unavailableProductIds.push(productId);
         //   // }
         // }
-
+        console.log(result.yml_catalog.shop[0].offers[0].offer[0]);
         const xmlString = builder.buildObject(result);
 
         const filePath = "./file.xml";
