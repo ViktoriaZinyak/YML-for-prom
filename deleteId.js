@@ -386,6 +386,9 @@ const deleteId = [
   "EL-1290ХL",
   "EL-1290М",
   "9320",
+  "DWE550",
+  "X22",
+  "BL6588",
 ];
 
 module.exports = deleteId;
