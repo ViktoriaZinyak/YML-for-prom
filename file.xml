@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-07-08 18:47">
+<yml_catalog date="2023-07-08 20:07">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -37383,47 +37383,6 @@ CL-03 – автономный и экологичный комплект для
         <param name="Тип диода">T6</param>
         <param name="Тип фонаря">Ручной</param>
       </offer>
-      <offer id="1757682631" available="true">
-        <url>https://aveon.net.ua/p1757682631-lampa-nastolnaya-svetodiodnaya.html</url>
-        <oldprice>322</oldprice>
-        <price>222</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/4231541649_lampa-nastolnaya-svetodiodnaya.jpg</picture>
-        <picture>https://images.prom.ua/4231541650_lampa-nastolnaya-svetodiodnaya.jpg</picture>
-        <picture>https://images.prom.ua/4231541651_lampa-nastolnaya-svetodiodnaya.jpg</picture>
-        <picture>https://images.prom.ua/4231541653_lampa-nastolnaya-svetodiodnaya.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Лампа настольная светодиодная на аккумуляторе LED TABLE LAMP BL-6588</name>
-        <vendorCode>BL6588</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Особенность данной модели заключается в том, что лампа имеет дополнительное отделение для канцелярских принадлежностей. Теперь вам не придется загромождать стол пеналами, органайзерами или подставками.
-Характеристика:
-
- 
-
-
-	Вид: Лампа
-	Цвет: Белый
-	Цвет свечения: Белый свет
-	Источник питания: Аккумулятор
-	Мощность максимальная: 3.6 Вт.
-	Аккумулятора хватает на 3-4 часа непрерывной работы в зависимости от режима освещения
-	Зарядка от micro USB
-	Количество LED: 16 шт.
-	Материал корпуса: пластик
-	В основе лампы есть подставка  ручек и др.;
-	Лампу можно крутить 
-
-</description>
-        <param name="Тип">Настольная лампа</param>
-        <param name="Цвет">Белый</param>
-        <param name="Цвет свечения">Нейтральный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип крепления">На поверхность</param>
-        <param name="Тип лампы">Светодиодная</param>
-      </offer>
       <offer id="1757715948" available="true">
         <url>https://aveon.net.ua/p1757715948-power-bank-kamry.html</url>
         <oldprice>956</oldprice>
@@ -40746,60 +40705,6 @@ IBM (T series ThinkPads), Lenovo, Gateway, Compaq (Armada, LTE, Evo, Presario, P
         <param name="Длина" unit="см">40</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1832269421" available="true">
-        <url>https://aveon.net.ua/p1832269421-avtomobilnyj-modulyator-x22.html</url>
-        <oldprice>214</oldprice>
-        <price>114</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017035</categoryId>
-        <picture>https://images.prom.ua/4475933879_avtomobilnyj-fm-modulyator.jpg</picture>
-        <picture>https://images.prom.ua/4475933878_avtomobilnyj-fm-modulyator.jpg</picture>
-        <picture>https://images.prom.ua/4475943711_avtomobilnyj-fm-modulyator.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Автомобильный FM модулятор X22</name>
-        <vendor>CAR </vendor>
-        <vendorCode>X22</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание :
-
-FM-модулятор – это недорогое многофункциональное устройство для прослушивания музыки в вашем автомобиле, а также удобная телефонная
-
-гарнитура (hands- free) ,в том числе модулятор послужит зарядкой для Вашего смартфона. Основная задача гаджета – воспроизведение
-
-музыкальных треков, отвечать на звонки, а также для зарядки телефонов. FM модулятор CAR Х8 позволяет одновременно прослушивать музыку,
-
-заряжать 2 смартфона и отвечать на вызовы, не отвлекаясь от управления автомобилем.
-
-Характеристики:
-
-
-	Дисплей:LED.
-	Hands-free Bluetooth :есть
-	Bluetooth stereo music :есть (трансляция треков через Bluetooth на трансмиттер)
-	USB слоты :2шт. (USB1 – 5V/2A для зарядки, USB2 –подключение флешки с mp3)
-	Функция автоматическое запоминание настроек при выключение : есть
-	Рабочее напряжение :12V
-	Bluetooth:3.0
-	Bluetooth sound:поддерживает A2DP
-	FM-частоты :87,5 – 108,0Mhz
-	Порты : 2 USB (USB1 – 5V/2A для зарядки, USB2 для флешки с MP3)
-	SD картка.
-
-
-Комплектация:
-
-
-	 FM-модулятор
-	 Инструкция по применению.
-
-</description>
-        <param name="Подключение устройства">Bluetooth</param>
-        <param name="Слоты карты памяти">SD</param>
-        <param name="USB-интерфейс">Да</param>
-        <param name="Дисплей">Да</param>
-        <param name="Состояние">Новое</param>
-      </offer>
       <offer id="1832636768" available="true">
         <url>https://aveon.net.ua/p1832636768-otkrytyj-skladnoj-dispenser.html</url>
         <oldprice>312</oldprice>
@@ -42813,70 +42718,6 @@ FM-модулятор – это недорогое многофункциона
         <param name="Состояние">Новое</param>
         <param name="Общее количество конфорок">4</param>
         <param name="Количество газовых конфорок">4</param>
-      </offer>
-      <offer id="1853875829" available="true">
-        <url>https://aveon.net.ua/p1853875829-shurupovert-akkumulyatornyj-550dwe.html</url>
-        <oldprice>1424</oldprice>
-        <price>1324</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017035</categoryId>
-        <picture>https://images.prom.ua/4546520918_shurupovert-akkumulyatornyj-550dwe.jpg</picture>
-        <picture>https://images.prom.ua/4546520894_shurupovert-akkumulyatornyj-550dwe.jpg</picture>
-        <picture>https://images.prom.ua/4546520908_shurupovert-akkumulyatornyj-550dwe.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Шуруповерт аккумуляторный 550DWE с режимами в кейсе, на аккумуляторах по 24V, реверс</name>
-        <vendorCode>DWE550</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Шуруповерт 550 DWE и набор инструментов в кейсе 2 аккумулятора/24 V 
-
- 
-
-Шуруповерт 550DWE. Предназначен для закручивания и выкручивания шурупов в древесину, пластмассу и другие материалы. Этот инструмент обладает 18 режимами вращения, включая режим «реверс», что дает фору многим аналогичным . Также, следует отметить возможность активации LED-подсветки, что поможет решать многие задачи в трудных местах и при достаточно плохом освещении. Шуруповерт хорош в своем деле. Скорость вращение высокая. А все это возможно благодаря мощному электродвигателю, который питается от емкого аккумулятора.
-
-Аккумулятор имеет быструю зарядку. Комплектуется дополнительным аккумулятором! Зарядка батареи производится в течение одного часа, а возможность регулировки оборотов от 0-1500/0-3500 об/мин., позволяет подбирать нужную частоту для особенных условий.
-
-Характеристики:
-
-
-	Тип дрели – шуруповёрт;
-	Макс. крутящий момент – 24Нм;
-	Питание – Литий-ионный аккумулятор;
-	Напряжение – 24v;
-	Емкость аккумулятора – 5.0 А/ч;
-	Тип патрона – Быстрозажимной;
-	Диаметр патрона – 0.8 – 10 мм;
-	Регулирование крутящего момента – 16+D;
-	Индикатор заряда аккумулятора.
-
-
-В наборе инструментов, представлены:
-
-
-	набор головок под гайки,
-	набор бит,
-	набор сверл для сверления дерева и металла и др. 
-
-
-Вместе с основным аккумулятором, в комплекте идет также и второй. Это позволит использовать устройство в два раза дольше, просто чередуя между собой два аккумулятора. В комплекте идет импульсное зарядное устройство для батарей, работающее от сети 220 В.
-
-В комплект входит:
-
-
-	Зарядное устройство.
-	2 аккумулятора.
-	Шуруповёрт.
-	Кейс.
-	Инструкция.
-
-</description>
-        <param name="Состояние">Новое</param>
-        <param name="Тип">Шуруповерт</param>
-        <param name="Питание">Аккумулятор</param>
-        <param name="Режим инструмента">безударный</param>
-        <param name="Тип патрона">Быстрозажимной</param>
-        <param name="Минимальный диаметр патрона" unit="мм">0.8</param>
-        <param name="Максимальный диаметр патрона" unit="мм">10</param>
       </offer>
       <offer id="1854566351" available="true">
         <url>https://aveon.net.ua/p1854566351-mikser-ruchnoj-rezhimov.html</url>
