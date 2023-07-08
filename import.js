@@ -195,6 +195,10 @@ axios
         filteredData = filteredData.filter(function (item) {
           return !item.name[0].includes("кроссовки");
         });
+
+        filteredData = filteredData.filter(function (item) {
+          return !item.name[0].includes("уценка");
+        });
         // console.log(filteredData);
         // console.log(result.yml_catalog.shop[0].offers[0].offer);
         result.yml_catalog.shop[0].offers[0].offer = filteredData;
