@@ -188,20 +188,22 @@ axios
             return product["$"].id === id.toString();
           });
         });
-        let filteredData = filteredProducts.filter(
-          (item) => !deleteId.includes(item.vendorCode[0])
-        );
+        let filteredData = filteredProducts.filter((item) => {
+          return !deleteId.some(function (id) {
+            return item.vendorCode[0].includes(id);
+          });
+        });
 
-        filteredData = filteredData.filter(function (item) {
+        let filteredByName = filteredData.filter(function (item) {
           return !item.name[0].includes("кроссовки");
         });
 
-        filteredData = filteredData.filter(function (item) {
-          return !item.name[0].includes("уценка");
+        let filteredByKeyWord = filteredByName.filter(function (item) {
+          return !item.name[0].includes("УЦЕНКА!");
         });
         // console.log(filteredData);
         // console.log(result.yml_catalog.shop[0].offers[0].offer);
-        result.yml_catalog.shop[0].offers[0].offer = filteredData;
+        result.yml_catalog.shop[0].offers[0].offer = filteredByKeyWord;
         // result.yml_catalog.shop[0] = filteredData;
         // for (var i = 0; i < filteredProducts.length; i++) {
         //   var product = filteredProducts[i];

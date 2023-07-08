@@ -358,7 +358,6 @@ const deleteId = [
   "HK446",
   "X18",
   "ART505",
-  "ART505",
   "HIGH110",
   "MACH212",
   "RB2220",
@@ -375,7 +374,8 @@ const deleteId = [
   "NNVGR925",
   "V925",
   "V-925",
+  "TW608",
+  "11MIR",
 ];
 
 module.exports = deleteId;
-
