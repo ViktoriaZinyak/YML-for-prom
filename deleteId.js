@@ -471,6 +471,15 @@ const deleteId = [
   "3811141",
   "WM-26",
   "9111",
+  "FACE252",
+  "VNGRV008",
+  "VGRV009",
+  "WR09Q",
+  "NBX72",
+  "MS6000",
+  "NMS5833",
+  "MS1406",
+  "23275",
 ];
 
 module.exports = deleteId;
