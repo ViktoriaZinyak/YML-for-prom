@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-07-20 16:14">
+<yml_catalog date="2023-07-21 12:48">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -43500,7 +43500,8 @@ Zepline  ZP-074  — удобный и практичный погружной �
       </offer>
       <offer id="1886214510" available="true">
         <url>https://aveon.net.ua/p1886214510-blender-pogruzhnoj-blender.html</url>
-        <price>680</price>
+        <oldprice>680</oldprice>
+        <price>580</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4660253732_blender-pogruzhnoj-3.jpg</picture>
@@ -44121,6 +44122,50 @@ Zepline  ZP-074  — удобный и практичный погружной �
         <param name="Количество установок длины">3</param>
         <param name="Минимальная длина стрижки" unit="мм">1</param>
         <param name="Максимальная длина стрижки" unit="мм">3</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1888295461" available="true">
+        <url>https://aveon.net.ua/p1888295461-avtomobilnyj-solntsezaschitnyj-zontik.html</url>
+        <price>290</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4668102318_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102322_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102325_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102317_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102319_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102323_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102324_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102327_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <picture>https://images.prom.ua/4668102326_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Автомобильный солнцезащитный зонтик на лобовое стекло 78х136 см</name>
+        <vendor>Без бренда</vendor>
+        <vendorCode>NN78136</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Зонтик для автомобиля/Зонт для лобового стекла автомобиля
+
+
+	Материал: сплав UPE
+	Размер: 78х136см
+	Подходит: для внедорожников-хэтчбеков, многоцелевые транспортные средства.
+
+
+Особенности:
+
+
+	 Высококачественный материал с функциями: износостойкость, стойкость к старению, ударопрочность.
+	 Новый стиль солнцезащитного оттенка. Дизайн зонта/растягивающий дизайн, маленький размер, легко носить с собой.
+	 Нацеленные на защиту от УФ-лучей, понижение температуры салона автомобиля летом.
+
+
+Примечание:
+
+
+	 Возможны незначительные погрешности в размере из-за ручного измерения. Пожалуйста, убедитесь, что вы не против, прежде чем сделать заказ.
+
+</description>
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="1888314550" available="false">
