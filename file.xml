@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-07-25 14:16">
+<yml_catalog date="2023-07-26 12:02">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -418,8 +418,8 @@
       </offer>
       <offer id="792885910" available="true">
         <url>https://aveon.net.ua/p792885910-letayuschaya-kukla-feya.html</url>
-        <oldprice>258</oldprice>
-        <price>158</price>
+        <oldprice>245</oldprice>
+        <price>145</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/1853480957_letayuschaya-kukla-feya.jpg</picture>
@@ -3918,9 +3918,10 @@ rm/rmvb/dvd (vob)/vcd dat)/mp1/mp2/divx/xvid/mp4/h263/h264/flv/3gp/swf/avi/asf/m
         <param name="Состояние">Новое</param>
         <param name="Тип питания" unit="">Сеть</param>
       </offer>
-      <offer id="1126945978" available="false">
+      <offer id="1126945978" available="true">
         <url>https://aveon.net.ua/p1126945978-elektro-pompa-dlya.html</url>
-        <price>205</price>
+        <oldprice>220</oldprice>
+        <price>120</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/2213940845_elektro-pompa-dlya.jpg</picture>
@@ -4725,8 +4726,8 @@ LED дисплей является одним из преимуществ да�
       </offer>
       <offer id="1152478043" available="true">
         <url>https://aveon.net.ua/p1152478043-plojka-pyat-voln.html</url>
-        <oldprice>510</oldprice>
-        <price>410</price>
+        <oldprice>500</oldprice>
+        <price>400</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/2299071583_plojka-pyat-voln.jpg</picture>
@@ -6805,8 +6806,8 @@ FM трансмиттер Car X8 Premium
       </offer>
       <offer id="1255770847" available="true">
         <url>https://aveon.net.ua/p1255770847-chudo-sushilka-transformer.html</url>
-        <oldprice>254</oldprice>
-        <price>154</price>
+        <oldprice>240</oldprice>
+        <price>140</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/2606016417_chudo-sushilka-transformer-skladnaya.jpg</picture>
@@ -7132,8 +7133,8 @@ GOLON RX-608ACW радиоприемник небольшого размера -
       </offer>
       <offer id="1258445755" available="true">
         <url>https://aveon.net.ua/p1258445755-mnogofunktsionalnyj-dzhojstik-dualshock.html</url>
-        <oldprice>717</oldprice>
-        <price>617</price>
+        <oldprice>660</oldprice>
+        <price>560</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018536</categoryId>
         <picture>https://images.prom.ua/2614060894_mnogofunktsionalnyj-dzhojstik-dualshock.jpg</picture>
@@ -7494,10 +7495,9 @@ Nicer Dicer может нарезать множество овощей и фр�
 
 </description>
       </offer>
-      <offer id="1275715002" available="true">
+      <offer id="1275715002" available="false">
         <url>https://aveon.net.ua/p1275715002-multikuker-oreshnitsa-gril.html</url>
-        <oldprice>1024</oldprice>
-        <price>924</price>
+        <price>1024</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/2669450279_multikuker-4-v.jpg</picture>
@@ -11252,10 +11252,9 @@ L08 имеет различный режим камеры, такие как р�
 
 </description>
       </offer>
-      <offer id="1432239345" available="true">
+      <offer id="1432239345" available="false">
         <url>https://aveon.net.ua/p1432239345-nabor-stolovyh-predmetov.html</url>
-        <oldprice>993</oldprice>
-        <price>893</price>
+        <price>993</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/3175555715_nabor-stolovyh-predmetov.jpg</picture>
@@ -14485,10 +14484,9 @@ Star Shower идеально подойдет для уличной илюмин
         <param name="Состояние">Новое</param>
         <param name="Цвет">Черный</param>
       </offer>
-      <offer id="1534809819" available="true">
+      <offer id="1534809819" available="false">
         <url>https://aveon.net.ua/p1534809819-nabor-kastryul-higher.html</url>
-        <oldprice>1901</oldprice>
-        <price>1801</price>
+        <price>1901</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/3510727599_nabor-kastryul-higher.jpg</picture>
@@ -14974,10 +14972,9 @@ Star Shower идеально подойдет для уличной илюмин
         <param name="Глубина" unit="мм">250</param>
         <param name="Высота" unit="мм">1520</param>
       </offer>
-      <offer id="1548098859" available="true">
+      <offer id="1548098859" available="false">
         <url>https://aveon.net.ua/p1548098859-mashinka-dlya-strizhki.html</url>
-        <oldprice>434</oldprice>
-        <price>334</price>
+        <price>434</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/3555735436_mashinka-dlya-strizhki.jpg</picture>
@@ -15536,10 +15533,9 @@ Kemei KM-197
         <param name="Способ крепления ручек">Литые (цельнолитые)</param>
         <param name="Подарочная упаковка">Да</param>
       </offer>
-      <offer id="1554733717" available="true">
+      <offer id="1554733717" available="false">
         <url>https://aveon.net.ua/p1554733717-nabor-kuhonnyh-nozhej.html</url>
-        <oldprice>370</oldprice>
-        <price>270</price>
+        <price>370</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/3578479732_nabor-kuhonnyh-nozhej.jpg</picture>
@@ -19547,10 +19543,9 @@ Wimpex WX-1611 позволит наслаждаться прохладным в
 </description>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1633313711" available="true">
+      <offer id="1633313711" available="false">
         <url>https://aveon.net.ua/p1633313711-bassejn-naduvnoj-bestway.html</url>
-        <oldprice>974</oldprice>
-        <price>874</price>
+        <price>974</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/3835613274_bassejn-naduvnoj-bestway.jpg</picture>
@@ -19781,10 +19776,9 @@ Gemei GM-566 предназначен для бережного удаления
         <param name="Время заряда аккумулятора" unit="час">8</param>
         <param name="Щеточка для чистки">Да</param>
       </offer>
-      <offer id="1638224809" available="true">
+      <offer id="1638224809" available="false">
         <url>https://aveon.net.ua/p1638224809-pennibord-mini-skejt.html</url>
-        <oldprice>799</oldprice>
-        <price>699</price>
+        <price>799</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/3850565736_pennibord-mini-skejt-25pu-graffiti.jpg</picture>
@@ -24922,10 +24916,9 @@ LCD-дисплей;
         <param name="Тип миксера">Ручной</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1684164806" available="true">
+      <offer id="1684164806" available="false">
         <url>https://aveon.net.ua/p1684164806-mashinka-dlya-strizhki.html</url>
-        <oldprice>486</oldprice>
-        <price>386</price>
+        <price>486</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/4001574044_mashinka-dlya-strizhki.jpg</picture>
@@ -36917,10 +36910,9 @@ IBM (T series ThinkPads), Lenovo, Gateway, Compaq (Armada, LTE, Evo, Presario, P
         <param name="Толщина" unit="мм">0.25</param>
         <param name="Цвет">Розовый</param>
       </offer>
-      <offer id="1836677101" available="true">
+      <offer id="1836677101" available="false">
         <url>https://aveon.net.ua/p1836677101-karkasnyj-detskij-bassejn.html</url>
-        <oldprice>1316</oldprice>
-        <price>1216</price>
+        <price>1316</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/4491095378_karkasnyj-detskij-bassejn.jpg</picture>
@@ -40159,8 +40151,8 @@ SPICE RACK sixsteen in one имеет привлекательный, непри
       </offer>
       <offer id="1865807170" available="true">
         <url>https://aveon.net.ua/p1865807170-doska-dlya-otzhimanij.html</url>
-        <oldprice>288</oldprice>
-        <price>188</price>
+        <oldprice>340</oldprice>
+        <price>240</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017047</categoryId>
         <picture>https://images.prom.ua/4586807496_doska-dlya-otzhimanij.jpg</picture>
