@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-07-26 12:02">
+<yml_catalog date="2023-07-27 11:18">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -2294,9 +2294,10 @@ LUNA mini 2 — это эффектное устройство размером 
         <param name="Потребляемая мощность" unit="Вт">650</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1034502062" available="false">
+      <offer id="1034502062" available="true">
         <url>https://aveon.net.ua/p1034502062-mini-fleshka-otverstiem.html</url>
-        <price>468</price>
+        <oldprice>468</oldprice>
+        <price>268</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018536</categoryId>
         <picture>https://images.prom.ua/1958614726_mini-fleshka-s-otverstiem.jpg</picture>
@@ -7495,9 +7496,10 @@ Nicer Dicer может нарезать множество овощей и фр�
 
 </description>
       </offer>
-      <offer id="1275715002" available="false">
+      <offer id="1275715002" available="true">
         <url>https://aveon.net.ua/p1275715002-multikuker-oreshnitsa-gril.html</url>
-        <price>1024</price>
+        <oldprice>1024</oldprice>
+        <price>924</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/2669450279_multikuker-4-v.jpg</picture>
@@ -17466,10 +17468,9 @@ QY66-X05 снабжен 6-ти осевым гироскопом, что поз�
         <param name="Материал">Полиэстер</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1570030216" available="true">
+      <offer id="1570030216" available="false">
         <url>https://aveon.net.ua/p1570030216-massazhnaya-schetka-dlya.html</url>
-        <oldprice>361</oldprice>
-        <price>261</price>
+        <price>361</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/3627740954_massazhnaya-schetka-dlya.jpg</picture>
@@ -17585,9 +17586,10 @@ QY66-X05 снабжен 6-ти осевым гироскопом, что поз�
         <param name="Вид оборудования">Овощечистки профессиональные</param>
         <param name="Тип установки оборудования">Настольный</param>
       </offer>
-      <offer id="1571599528" available="false">
+      <offer id="1571599528" available="true">
         <url>https://aveon.net.ua/p1571599528-massazher-elektricheskij-podushka.html</url>
-        <price>342</price>
+        <oldprice>342</oldprice>
+        <price>242</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/3632555645_massazher-elektricheskij-podushka.jpg</picture>
@@ -25652,9 +25654,10 @@ LCD-дисплей;
         <param name="Состояние">Новое</param>
         <param name="Тип">Электрочайник</param>
       </offer>
-      <offer id="1686173961" available="false">
+      <offer id="1686173961" available="true">
         <url>https://aveon.net.ua/p1686173961-korrektor-osanki-back.html</url>
-        <price>234</price>
+        <oldprice>234</oldprice>
+        <price>134</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017047</categoryId>
         <picture>https://images.prom.ua/4007917647_korrektor-osanki-back.jpg</picture>
@@ -28441,9 +28444,10 @@ LCD-дисплей;
         <param name="Рекомендуемая площадь помещения" unit="кв.м">22</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1709396994" available="false">
+      <offer id="1709396994" available="true">
         <url>https://aveon.net.ua/p1709396994-akkumulyatornyj-nalobnyj-fonar.html</url>
-        <price>390</price>
+        <oldprice>390</oldprice>
+        <price>290</price>
         <currencyId>UAH</currencyId>
         <categoryId>70181491</categoryId>
         <picture>https://images.prom.ua/4079120752_akkumulyatornyj-nalobnyj-fonar.jpg</picture>
@@ -30818,9 +30822,10 @@ LCD-дисплей;
         <param name="Состояние">Новое</param>
         <param name="Цвет">Черный</param>
       </offer>
-      <offer id="1721557479" available="false">
+      <offer id="1721557479" available="true">
         <url>https://aveon.net.ua/p1721557479-blender-pogruzhnoj-chashej.html</url>
-        <price>453</price>
+        <oldprice>453</oldprice>
+        <price>353</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4118466152_blender-pogruzhnoj-s.jpg</picture>
@@ -32191,9 +32196,10 @@ LED гирлянда ― одна из самых популярных вари�
         <param name="Тип крепления">На поверхность</param>
         <param name="Тип лампы">Светодиодная</param>
       </offer>
-      <offer id="1739910415" available="false">
+      <offer id="1739910415" available="true">
         <url>https://aveon.net.ua/p1739910415-besprovodnye-naushniki-dlya.html</url>
-        <price>341</price>
+        <oldprice>341</oldprice>
+        <price>241</price>
         <currencyId>UAH</currencyId>
         <categoryId>70182026</categoryId>
         <picture>https://images.prom.ua/4175539943_besprovodnye-naushniki-ir.jpg</picture>
@@ -34539,9 +34545,10 @@ RJTianye (RJ-C120501A) – сетевое интеллектуальное му�
         <param name="Режимы работы фонаря">Средний|Интенсивный</param>
         <param name="Тип заряда">USB</param>
       </offer>
-      <offer id="1771109905" available="false">
+      <offer id="1771109905" available="true">
         <url>https://aveon.net.ua/p1771109905-lampa-akkumulyatornaya-100w.html</url>
-        <price>268</price>
+        <oldprice>268</oldprice>
+        <price>168</price>
         <currencyId>UAH</currencyId>
         <categoryId>70181491</categoryId>
         <picture>https://images.prom.ua/4275607315_lampa-akkumulyatornaya-100w.jpg</picture>
@@ -34724,10 +34731,9 @@ RJTianye (RJ-C120501A) – сетевое интеллектуальное му�
         <param name="Тюнер">Аналоговый</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1777459481" available="true">
+      <offer id="1777459481" available="false">
         <url>https://aveon.net.ua/p1777459481-chashka-blender-chubby.html</url>
-        <oldprice>312</oldprice>
-        <price>212</price>
+        <price>312</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4296343045_chashka-blender-chubby.jpg</picture>
@@ -36818,10 +36824,9 @@ IBM (T series ThinkPads), Lenovo, Gateway, Compaq (Armada, LTE, Evo, Presario, P
         <param name="Высота" unit="мм">112</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1836640406" available="true">
+      <offer id="1836640406" available="false">
         <url>https://aveon.net.ua/p1836640406-intex-naduvnoj-edinorog.html</url>
-        <oldprice>673</oldprice>
-        <price>573</price>
+        <price>673</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/4490953994_intex-naduvnoj-edinorog.jpg</picture>
@@ -40401,9 +40406,10 @@ SPICE RACK sixsteen in one имеет привлекательный, непри
         <param name="Состояние">Новое</param>
         <param name="Тип разъема">USB</param>
       </offer>
-      <offer id="1868588650" available="false">
+      <offer id="1868588650" available="true">
         <url>https://aveon.net.ua/p1868588650-shvabra-funktsiej-otzhima.html</url>
-        <price>327</price>
+        <oldprice>327</oldprice>
+        <price>227</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/4596699572_shvabra-s-funktsiej.jpg</picture>
@@ -42127,9 +42133,10 @@ Usb type c otg выполнен из металла с алюминием, по�
 
 </description>
       </offer>
-      <offer id="1883632484" available="false">
+      <offer id="1883632484" available="true">
         <url>https://aveon.net.ua/p1883632484-mini-pila-supretto.html</url>
-        <price>1282</price>
+        <oldprice>1282</oldprice>
+        <price>1182</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017035</categoryId>
         <picture>https://images.prom.ua/4651431758_mini-pila-supretto.jpg</picture>
@@ -43673,10 +43680,9 @@ Zepline  ZP-074  — удобный и практичный погружной �
         <param name="Состояние">Новое</param>
         <param name="Емкость измельчителя" unit="мл">2000</param>
       </offer>
-      <offer id="1888295461" available="true">
+      <offer id="1888295461" available="false">
         <url>https://aveon.net.ua/p1888295461-avtomobilnyj-solntsezaschitnyj-zontik.html</url>
-        <oldprice>290</oldprice>
-        <price>190</price>
+        <price>290</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017035</categoryId>
         <picture>https://images.prom.ua/4668102318_avtomobilnyj-solntsezaschitnyj-zontik.jpg</picture>
@@ -43718,9 +43724,10 @@ Zepline  ZP-074  — удобный и практичный погружной �
 </description>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1888314550" available="false">
+      <offer id="1888314550" available="true">
         <url>https://aveon.net.ua/p1888314550-svetilnik-nochnik-rgb.html</url>
-        <price>650</price>
+        <oldprice>650</oldprice>
+        <price>550</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018536</categoryId>
         <picture>https://images.prom.ua/4668124035_svetilnik-nochnik-rgb.jpg</picture>
