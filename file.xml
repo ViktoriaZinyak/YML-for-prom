@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-07-27 11:18">
+<yml_catalog date="2023-07-28 13:41">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -6441,8 +6441,8 @@ FM трансмиттер Car X8 Premium
       </offer>
       <offer id="1248951502" available="true">
         <url>https://aveon.net.ua/p1248951502-muzykalnyj-disko-shar.html</url>
-        <oldprice>507</oldprice>
-        <price>327</price>
+        <oldprice>370</oldprice>
+        <price>270</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/2584454308_muzykalnyj-disko-shar-s.jpg</picture>
@@ -41186,9 +41186,10 @@ USB-аккумулятор: беспроводная электрическая 
         <param name="Тип питания">USB-порт компьютера</param>
         <param name="Потребляемая мощность" unit="Вт">5</param>
       </offer>
-      <offer id="1879574294" available="false">
+      <offer id="1879574294" available="true">
         <url>https://aveon.net.ua/p1879574294-ruchnaya-pelmennitsa-nabor.html</url>
-        <price>224</price>
+        <oldprice>224</oldprice>
+        <price>124</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4636134712_ruchnaya-pelmennitsa-2.jpg</picture>
@@ -43724,10 +43725,9 @@ Zepline  ZP-074  — удобный и практичный погружной �
 </description>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1888314550" available="true">
+      <offer id="1888314550" available="false">
         <url>https://aveon.net.ua/p1888314550-svetilnik-nochnik-rgb.html</url>
-        <oldprice>650</oldprice>
-        <price>550</price>
+        <price>650</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018536</categoryId>
         <picture>https://images.prom.ua/4668124035_svetilnik-nochnik-rgb.jpg</picture>
@@ -43956,11 +43956,11 @@ Zepline  ZP-074  — удобный и практичный погружной �
         <price>215</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4707800799_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4696383016_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4696383017_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4696383015_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4707800805_portativnyj-blender-butylka.jpg</picture>
-        <picture>https://images.prom.ua/4707800799_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4707800801_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4707800803_portativnyj-blender-butylka.jpg</picture>
         <picture>https://images.prom.ua/4707800808_portativnyj-blender-butylka.jpg</picture>
