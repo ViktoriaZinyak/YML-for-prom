@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-07-28 13:41">
+<yml_catalog date="2023-07-29 12:29">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -755,8 +755,8 @@
       </offer>
       <offer id="916560774" available="true">
         <url>https://aveon.net.ua/p916560774-zhenskij-epilyator-trimmer.html</url>
-        <oldprice>229</oldprice>
-        <price>129</price>
+        <oldprice>185</oldprice>
+        <price>85</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/1853485571_zhenskij-epilyator-trimmer.jpg</picture>
@@ -869,8 +869,8 @@
       </offer>
       <offer id="926007449" available="true">
         <url>https://aveon.net.ua/p926007449-terka-ovoscherezka-multislajser.html</url>
-        <oldprice>351</oldprice>
-        <price>251</price>
+        <oldprice>320</oldprice>
+        <price>220</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/1853486780_terka-ovoscherezka-.jpg</picture>
@@ -2597,8 +2597,8 @@ Beauty Skincare DSP подойдет не только для домашнего
       </offer>
       <offer id="1077645958" available="true">
         <url>https://aveon.net.ua/p1077645958-yarkij-avtomaticheskij-detskij.html</url>
-        <oldprice>263</oldprice>
-        <price>163</price>
+        <oldprice>220</oldprice>
+        <price>120</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/2072045353_yarkij-avtomaticheskij-detskij.jpg</picture>
@@ -8211,10 +8211,9 @@ Star Shower идеально подойдет для уличной илюмин
         <param name="Назначение">Бытовое</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1320994788" available="true">
+      <offer id="1320994788" available="false">
         <url>https://aveon.net.ua/p1320994788-nabor-dlya-tvorchestva.html</url>
-        <oldprice>634</oldprice>
-        <price>534</price>
+        <price>634</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/2814626185_nabor-dlya-tvorchestva.jpg</picture>
@@ -11302,9 +11301,10 @@ L08 имеет различный режим камеры, такие как р�
 Упаковка
 </description>
       </offer>
-      <offer id="1432248870" available="false">
+      <offer id="1432248870" available="true">
         <url>https://aveon.net.ua/p1432248870-ruchnoj-otparivatel-dlya.html</url>
-        <price>838</price>
+        <oldprice>838</oldprice>
+        <price>738</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/3175584541_ruchnoj-otparivatel-dlya.jpg</picture>
@@ -12755,8 +12755,8 @@ Freshpack PRO - это миниатюрный прибор с большой м�
       </offer>
       <offer id="1456642077" available="true">
         <url>https://aveon.net.ua/p1456642077-nabor-fitnes-rezinok.html</url>
-        <oldprice>210</oldprice>
-        <price>110</price>
+        <oldprice>190</oldprice>
+        <price>90</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017047</categoryId>
         <picture>https://images.prom.ua/3258712803_nabor-fitnes-rezinok-tkanevyh.jpg</picture>
@@ -13762,8 +13762,8 @@ Hacадка для теста 2 шт;
       </offer>
       <offer id="1503030989" available="true">
         <url>https://aveon.net.ua/p1503030989-detskaya-palatka-igrovaya.html</url>
-        <oldprice>434</oldprice>
-        <price>334</price>
+        <oldprice>420</oldprice>
+        <price>320</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/3413345243_detskaya-palatka-igrovaya.jpg</picture>
@@ -13878,8 +13878,8 @@ Hacадка для теста 2 шт;
       </offer>
       <offer id="1505633824" available="true">
         <url>https://aveon.net.ua/p1505633824-detskaya-palatka-igrovaya.html</url>
-        <oldprice>434</oldprice>
-        <price>334</price>
+        <oldprice>420</oldprice>
+        <price>320</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/3421985968_detskaya-palatka-igrovaya.jpg</picture>
@@ -16260,10 +16260,9 @@ Pioneer 1781BT Bluetooth - одна из лучших магнитол в сво
         <param name="Программы эквалайзера">6</param>
         <param name="Входы и выходы">Аудиовыход</param>
       </offer>
-      <offer id="1567229409" available="true">
+      <offer id="1567229409" available="false">
         <url>https://aveon.net.ua/p1567229409-avtomagnitola-1din-mp3.html</url>
-        <oldprice>701</oldprice>
-        <price>601</price>
+        <price>701</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017035</categoryId>
         <picture>https://images.prom.ua/3618352950_avtomagnitola-1din-mp3-6317d.jpg</picture>
@@ -18175,10 +18174,9 @@ QY66-X05 снабжен 6-ти осевым гироскопом, что поз�
         <param name="Способ крепления ручек">Литые (цельнолитые)</param>
         <param name="Подарочная упаковка">Да</param>
       </offer>
-      <offer id="1603391222" available="true">
+      <offer id="1603391222" available="false">
         <url>https://aveon.net.ua/p1603391222-nabor-kastryul-granitnym.html</url>
-        <oldprice>1840</oldprice>
-        <price>1740</price>
+        <price>1840</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/3735609150_nabor-kastryul-s.jpg</picture>
@@ -18413,10 +18411,9 @@ P65 Наружные солнечные фонари, подходящие дл�
         <param name="Материал насадки">Нержавеющая сталь</param>
         <param name="Количество режимов струи">3</param>
       </offer>
-      <offer id="1604975068" available="true">
+      <offer id="1604975068" available="false">
         <url>https://aveon.net.ua/p1604975068-massazher-dlya-spiny.html</url>
-        <oldprice>255</oldprice>
-        <price>155</price>
+        <price>255</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/3741352579_massazher-dlya-spiny.jpg</picture>
@@ -24871,10 +24868,9 @@ LCD-дисплей;
         <param name="Тип миксера">Ручной</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1684148139" available="true">
+      <offer id="1684148139" available="false">
         <url>https://aveon.net.ua/p1684148139-mikser-kuhonnyj-domashnij.html</url>
-        <oldprice>671</oldprice>
-        <price>571</price>
+        <price>671</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4001423822_mikser-kuhonnyj-domashnij.jpg</picture>
@@ -28123,10 +28119,9 @@ LCD-дисплей;
         <param name="Вид изделия">RGB светодиодная лента</param>
         <param name="Цвет">Черный</param>
       </offer>
-      <offer id="1703013794" available="true">
+      <offer id="1703013794" available="false">
         <url>https://aveon.net.ua/p1703013794-uglovaya-led-rgb.html</url>
-        <oldprice>1926</oldprice>
-        <price>1826</price>
+        <price>1926</price>
         <currencyId>UAH</currencyId>
         <categoryId>70181491</categoryId>
         <picture>https://images.prom.ua/4060994181_uglovaya-led-rgb.jpg</picture>
@@ -30822,10 +30817,9 @@ LCD-дисплей;
         <param name="Состояние">Новое</param>
         <param name="Цвет">Черный</param>
       </offer>
-      <offer id="1721557479" available="true">
+      <offer id="1721557479" available="false">
         <url>https://aveon.net.ua/p1721557479-blender-pogruzhnoj-chashej.html</url>
-        <oldprice>453</oldprice>
-        <price>353</price>
+        <price>453</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4118466152_blender-pogruzhnoj-s.jpg</picture>
@@ -34486,10 +34480,9 @@ RJTianye (RJ-C120501A) – сетевое интеллектуальное му�
 </description>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1767552376" available="true">
+      <offer id="1767552376" available="false">
         <url>https://aveon.net.ua/p1767552376-kempingovaya-lampa-kryuchkom.html</url>
-        <oldprice>229</oldprice>
-        <price>129</price>
+        <price>229</price>
         <currencyId>UAH</currencyId>
         <categoryId>70181491</categoryId>
         <picture>https://images.prom.ua/4264941680_kempingovaya-lampa-s.jpg</picture>
@@ -35494,10 +35487,9 @@ Beauty Skincare DSP подойдет не только для домашнего
         <param name="Тип прибора">Бутербродница</param>
         <param name="Индикатор нагрева">Да</param>
       </offer>
-      <offer id="1809135140" available="true">
+      <offer id="1809135140" available="false">
         <url>https://aveon.net.ua/p1809135140-avtomaticheskij-vydvizhnoj-rozovyj.html</url>
-        <oldprice>644</oldprice>
-        <price>544</price>
+        <price>644</price>
         <currencyId>UAH</currencyId>
         <categoryId>30014688</categoryId>
         <picture>https://images.prom.ua/4397198048_2-v-1.jpg</picture>
@@ -37018,10 +37010,9 @@ IBM (T series ThinkPads), Lenovo, Gateway, Compaq (Armada, LTE, Evo, Presario, P
         <param name="Диаметр" unit="см">86</param>
         <param name="Количество воздушных камер">2</param>
       </offer>
-      <offer id="1836760072" available="true">
+      <offer id="1836760072" available="false">
         <url>https://aveon.net.ua/p1836760072-krugmatras-plotik-naduvnoj.html</url>
-        <oldprice>517</oldprice>
-        <price>417</price>
+        <price>517</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/4491315912_krugmatras-plotik-naduvnoj.jpg</picture>
@@ -37061,10 +37052,9 @@ IBM (T series ThinkPads), Lenovo, Gateway, Compaq (Armada, LTE, Evo, Presario, P
         <param name="Форма" unit="">Прямоугольная</param>
         <param name="Состояние" unit="">Новое</param>
       </offer>
-      <offer id="1836770102" available="true">
+      <offer id="1836770102" available="false">
         <url>https://aveon.net.ua/p1836770102-krugmatras-plotik-naduvnoj.html</url>
-        <oldprice>522</oldprice>
-        <price>422</price>
+        <price>522</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017064</categoryId>
         <picture>https://images.prom.ua/4491417542_krugmatras-plotik-naduvnoj.jpg</picture>
@@ -38738,8 +38728,8 @@ IBM (T series ThinkPads), Lenovo, Gateway, Compaq (Armada, LTE, Evo, Presario, P
       </offer>
       <offer id="1855460827" available="true">
         <url>https://aveon.net.ua/p1855460827-mnogofunktsionalnyj-ruchnoj-elektricheskij.html</url>
-        <oldprice>330</oldprice>
-        <price>230</price>
+        <oldprice>310</oldprice>
+        <price>210</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018858</categoryId>
         <picture>https://images.prom.ua/4552047165_mnogofunktsionalnyj-ruchnoj-elektricheskij.jpg</picture>
@@ -40406,10 +40396,9 @@ SPICE RACK sixsteen in one имеет привлекательный, непри
         <param name="Состояние">Новое</param>
         <param name="Тип разъема">USB</param>
       </offer>
-      <offer id="1868588650" available="true">
+      <offer id="1868588650" available="false">
         <url>https://aveon.net.ua/p1868588650-shvabra-funktsiej-otzhima.html</url>
-        <oldprice>327</oldprice>
-        <price>227</price>
+        <price>327</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
         <picture>https://images.prom.ua/4596699572_shvabra-s-funktsiej.jpg</picture>
@@ -42136,8 +42125,8 @@ Usb type c otg выполнен из металла с алюминием, по�
       </offer>
       <offer id="1883632484" available="true">
         <url>https://aveon.net.ua/p1883632484-mini-pila-supretto.html</url>
-        <oldprice>1282</oldprice>
-        <price>1182</price>
+        <oldprice>1175</oldprice>
+        <price>1075</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017035</categoryId>
         <picture>https://images.prom.ua/4651431758_mini-pila-supretto.jpg</picture>
